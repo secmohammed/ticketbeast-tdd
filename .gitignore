@@ -1,0 +1,11 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/storage/framework/testing/
+Homestead.json
+Homestead.yaml
+.env
+.env.dusk.local
+**/.DS_Store
